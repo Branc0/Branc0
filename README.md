@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I'm a software engineer with 8 years of professional experience. I hold a technical degree and a bachelor's in Computer Science.
+
+Linkedin: https://www.linkedin.com/in/rrochadeazevedo/
 <!--
 **Branc0/Branc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
